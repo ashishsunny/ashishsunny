@@ -44,8 +44,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsunny&" alt="ashishsunny" /></p>
 
-[![ashishsunny's GitHub | Languages Over Time](https://stats.quine.sh/ashishsunny/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ashishsunny)
-
 <a >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsunny&theme=gotham&layout=compact&hide=python,php" />
 </a>
