@@ -1,7 +1,7 @@
 ![banner](./images/banner2.png)
 
 
-<h1 align="center">Hiya 🙋🏻‍♂️, I'm ash(+_+)👾</h1>
+<h1 align="center">Hiya 🙋🏻‍♂️, I'm ash👾</h1>
 <h3 align="center">I am a frontend dev based on Bangalore!🌷</h3>
 
 
